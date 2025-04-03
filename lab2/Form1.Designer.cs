@@ -48,7 +48,7 @@ partial class Form1
         button1.Name = "button1";
         button1.Size = new System.Drawing.Size(204, 48);
         button1.TabIndex = 0;
-        button1.Text = "button1";
+        button1.Text = "зашифровать";
         button1.UseVisualStyleBackColor = true;
         button1.Click += button1_Click;
         // 
@@ -75,7 +75,7 @@ partial class Form1
         label1.Name = "label1";
         label1.Size = new System.Drawing.Size(535, 39);
         label1.TabIndex = 3;
-        label1.Text = "label1";
+        label1.Text = "";
         // 
         // label2
         // 
@@ -83,7 +83,7 @@ partial class Form1
         label2.Name = "label2";
         label2.Size = new System.Drawing.Size(190, 36);
         label2.TabIndex = 4;
-        label2.Text = "label2";
+        label2.Text = "Регистр";
         // 
         // label3
         // 
@@ -91,7 +91,7 @@ partial class Form1
         label3.Name = "label3";
         label3.Size = new System.Drawing.Size(199, 37);
         label3.TabIndex = 5;
-        label3.Text = "label3";
+        label3.Text = "Ключ";
         label3.Click += label3_Click;
         // 
         // textBox3
@@ -116,7 +116,7 @@ partial class Form1
         button3.Name = "button3";
         button3.Size = new System.Drawing.Size(204, 47);
         button3.TabIndex = 10;
-        button3.Text = "button3";
+        button3.Text = "открыть файл";
         button3.UseVisualStyleBackColor = true;
         button3.Click += button3_Click;
         // 
@@ -126,7 +126,7 @@ partial class Form1
         button4.Name = "button4";
         button4.Size = new System.Drawing.Size(204, 47);
         button4.TabIndex = 11;
-        button4.Text = "button4";
+        button4.Text = "сохранить файл";
         button4.UseVisualStyleBackColor = true;
         button4.Click += button4_Click;
         // 
@@ -136,7 +136,7 @@ partial class Form1
         button2.Name = "button2";
         button2.Size = new System.Drawing.Size(204, 47);
         button2.TabIndex = 12;
-        button2.Text = "button2";
+        button2.Text = "очистить все";
         button2.UseVisualStyleBackColor = true;
         button2.Click += button2_Click;
         // 
