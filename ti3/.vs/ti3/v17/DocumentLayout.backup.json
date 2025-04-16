@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0431\u0433\u0443\u0438\u04402\\\u0442\u0438\\ti3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A7D4AE49-30B1-450F-A891-E7DC76F1328A}|ti3\\ti3.csproj|d:\\\u0431\u0433\u0443\u0438\u04402\\\u0442\u0438\\ti3\\ti3\\rsa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7D4AE49-30B1-450F-A891-E7DC76F1328A}|ti3\\ti3.csproj|solutionrelative:ti3\\rsa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7D4AE49-30B1-450F-A891-E7DC76F1328A}|ti3\\ti3.csproj|d:\\\u0431\u0433\u0443\u0438\u04402\\\u0442\u0438\\ti3\\ti3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7D4AE49-30B1-450F-A891-E7DC76F1328A}|ti3\\ti3.csproj|solutionrelative:ti3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7D4AE49-30B1-450F-A891-E7DC76F1328A}|ti3\\ti3.csproj|d:\\\u0431\u0433\u0443\u0438\u04402\\\u0442\u0438\\ti3\\ti3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A7D4AE49-30B1-450F-A891-E7DC76F1328A}|ti3\\ti3.csproj|solutionrelative:ti3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RSA.cs",
+              "DocumentMoniker": "D:\\\u0431\u0433\u0443\u0438\u04402\\\u0442\u0438\\ti3\\ti3\\RSA.cs",
+              "RelativeDocumentMoniker": "ti3\\RSA.cs",
+              "ToolTip": "D:\\\u0431\u0433\u0443\u0438\u04402\\\u0442\u0438\\ti3\\ti3\\RSA.cs",
+              "RelativeToolTip": "ti3\\RSA.cs",
+              "ViewState": "AgIAAIEAAAAAAAAAAAAAAA0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T21:28:24.44Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\\u0431\u0433\u0443\u0438\u04402\\\u0442\u0438\\ti3\\ti3\\Form1.cs",
+              "RelativeDocumentMoniker": "ti3\\Form1.cs",
+              "ToolTip": "D:\\\u0431\u0433\u0443\u0438\u04402\\\u0442\u0438\\ti3\\ti3\\Form1.cs",
+              "RelativeToolTip": "ti3\\Form1.cs",
+              "ViewState": "AgIAAJQAAAAAAAAAAAAQwKUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T21:50:08.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\\u0431\u0433\u0443\u0438\u04402\\\u0442\u0438\\ti3\\ti3\\Form1.cs",
+              "RelativeDocumentMoniker": "ti3\\Form1.cs",
+              "ToolTip": "D:\\\u0431\u0433\u0443\u0438\u04402\\\u0442\u0438\\ti3\\ti3\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "ti3\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T21:28:26.513Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

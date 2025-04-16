@@ -1,0 +1,16 @@
+D:\бгуир2\ти\ti3\ti3\bin\Debug\net9.0-windows\ti3.exe
+D:\бгуир2\ти\ti3\ti3\bin\Debug\net9.0-windows\ti3.deps.json
+D:\бгуир2\ти\ti3\ti3\bin\Debug\net9.0-windows\ti3.runtimeconfig.json
+D:\бгуир2\ти\ti3\ti3\bin\Debug\net9.0-windows\ti3.dll
+D:\бгуир2\ти\ti3\ti3\bin\Debug\net9.0-windows\ti3.pdb
+D:\бгуир2\ти\ti3\ti3\obj\Debug\net9.0-windows\ti3.GeneratedMSBuildEditorConfig.editorconfig
+D:\бгуир2\ти\ti3\ti3\obj\Debug\net9.0-windows\ti3.AssemblyInfoInputs.cache
+D:\бгуир2\ти\ti3\ti3\obj\Debug\net9.0-windows\ti3.AssemblyInfo.cs
+D:\бгуир2\ти\ti3\ti3\obj\Debug\net9.0-windows\ti3.csproj.CoreCompileInputs.cache
+D:\бгуир2\ти\ti3\ti3\obj\Debug\net9.0-windows\ti3.dll
+D:\бгуир2\ти\ti3\ti3\obj\Debug\net9.0-windows\refint\ti3.dll
+D:\бгуир2\ти\ti3\ti3\obj\Debug\net9.0-windows\ti3.pdb
+D:\бгуир2\ти\ti3\ti3\obj\Debug\net9.0-windows\ti3.genruntimeconfig.cache
+D:\бгуир2\ти\ti3\ti3\obj\Debug\net9.0-windows\ref\ti3.dll
+D:\бгуир2\ти\ti3\ti3\obj\Debug\net9.0-windows\ti3.Form1.resources
+D:\бгуир2\ти\ti3\ti3\obj\Debug\net9.0-windows\ti3.csproj.GenerateResource.cache
